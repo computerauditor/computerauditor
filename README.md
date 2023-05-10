@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @computerauditor
+- 👋 Hi, I’m Dev a.k.a @computerauditor
 - 👀 I’m interested in coding,cybersecurity and softwares 
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on python tools and bash scripts
